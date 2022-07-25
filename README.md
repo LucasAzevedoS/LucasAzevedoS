@@ -2,7 +2,7 @@
 
 
 - 🔭 Procurando um Emprego 
-- 🌱 Estudando Java 
+- 🌱 HTML CSS JS <3
 
  <div>
   <a href="https://github.com/Zdingy">
