@@ -20,9 +20,9 @@
   ##
   
   <div> 
-  <a href="https://discord.gg/PqdBne9vhe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
   <a href="https://www.instagram.com/luccas_souzz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/profiles/76561198979387681/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+
   </div>
     
     
