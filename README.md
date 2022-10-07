@@ -11,7 +11,7 @@
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Zdingy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Zdingy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Zdingy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Zdingy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Satoru-Gojo" height="150" width="150"  src="https://static.wikia.nocookie.net/94de61fa-cb42-4a81-aa7b-e024666f26aa">
