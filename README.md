@@ -1,7 +1,7 @@
 ## Iae, Lucas aqui!
 
 
-- 🔭 Procurando um Emprego 
+- 🔭 Estudante de Desenvolvimento Web Front-end 
 - 🌱 HTML CSS JS <3
 
  <div>
