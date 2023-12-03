@@ -8,10 +8,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zdingy)](https://github.com/Zdingy/github-readme-stats)
 
 ## Tecnologias que eu utilizo:
-<div style="display: inline_block"><br/> 
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,javascript,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=vscode,ps,figma,git," />
   </a>
 </p>
 </div><br/>
