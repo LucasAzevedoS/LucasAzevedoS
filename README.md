@@ -29,7 +29,6 @@ Atualmente estou cursando faculdade de Análise e desenvolvimento de Sistemas
 Email lucas.a.souza@hotmail.com 
 <div>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-azevedodev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_souzlucas/)
 </div>
 
 
