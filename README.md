@@ -9,7 +9,11 @@
 
 ## Tecnologias que eu utilizo:
 <div style="display: inline_block"><br/> 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,javascript,python,html,css" />
+  </a>
+</p>
 </div><br/>
 
 Atualmente estou cursando faculdade de Análise e desenvolvimento de Sistemas
