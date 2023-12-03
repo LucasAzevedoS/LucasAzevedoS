@@ -14,6 +14,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,python," />
   </a>
 </p>
+
 ## Ferramenta de desenvolvimento 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -25,7 +26,7 @@
 Atualmente estou cursando faculdade de Análise e desenvolvimento de Sistemas
 
 ## Contatos
-Email lucas.a.souza@hotmail.com
+Email lucas.a.souza@hotmail.com <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-azevedodev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_souzlucas/)
 
