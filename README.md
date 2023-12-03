@@ -14,7 +14,13 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,python," />
   </a>
 </p>
-</div><br/>
+## Ferramenta de desenvolvimento 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git," />
+  </a>
+</p>
+
 
 Atualmente estou cursando faculdade de Análise e desenvolvimento de Sistemas
 
