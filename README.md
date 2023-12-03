@@ -1,12 +1,11 @@
-### Olá! Eu sou o Lucas 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-azevedodev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_souzlucas/)
+### Olá, Eu sou o Lucas 
 
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Zdingy&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zdingy&layout=compact)](https://github.com/Zdingy/github-readme-stats)
 
 ## Tecnologias que eu utilizo:
 <div style="display: inline_block"><br/> 
@@ -23,5 +22,7 @@ Atualmente estou cursando faculdade de Análise e desenvolvimento de Sistemas
 
 ## Contatos
 Email lucas.a.souza@hotmail.com
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-azevedodev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_souzlucas/)
 
 
