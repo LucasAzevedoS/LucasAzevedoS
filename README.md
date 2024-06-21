@@ -5,7 +5,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zdingy)](https://github.com/Zdingy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAzevedoS)](https://github.com/LucasAzevedoS/github-readme-stats)
 
 ## Tecnologias que eu utilizo:
 
