@@ -7,13 +7,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAzevedoS)](https://github.com/LucasAzevedoS/github-readme-stats)
 
-## Tecnologias que eu utilizo:
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= cs, dotnet, react, sql" />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,mysql)](https://skillicons.dev)
 
 ## Ferramenta de desenvolvimento 
 <p align="left">
