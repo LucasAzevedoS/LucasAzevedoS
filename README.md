@@ -5,7 +5,7 @@
 
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LucasAzevedoS&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/LucasAzevedoS/github-readme-stats#gh-dark-mode-only)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAzevedoS&show_icons=true&theme=radical)
 
 
 
