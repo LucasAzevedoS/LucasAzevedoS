@@ -12,15 +12,8 @@ Estou cursando Análise e Desenvolvimento de Sistemas na FIAP e atuo principalme
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,ts,sql,git,docker)](https://skillicons.dev)
 
-## Ferramenta de desenvolvimento 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git," />
-  </a>
-</p>
 
-
-Atualmente estou cursando faculdade de Análise e desenvolvimento de Sistemas
+Atualmente estou cursando Engenharia da Computação
 
 
 
