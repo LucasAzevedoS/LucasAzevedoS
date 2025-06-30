@@ -1,5 +1,5 @@
 ### Olá, meu nome é Lucas, tenho 20 anos e trabalho como Análista de TI. 
-Estou cursando Análise e Desenvolvimento de Sistemas na FIAP e atuo principalmente com .NET e React. <br>Atualmente, estou aprimorando minhas habilidades em projetos reais e estudos focados em desenvolvimento web. 
+Estou cursando Engenharia da Computação na Univesp e atuo principalmente com .NET e React. <br>Atualmente, estou aprimorando minhas habilidades em projetos reais e estudos focados em desenvolvimento web. 
 
 
 
