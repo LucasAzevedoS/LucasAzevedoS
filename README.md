@@ -10,7 +10,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas na FIAP e atuo principalme
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,ts,sql,git,docker)](https://skillicons.dev)
 
 ## Ferramenta de desenvolvimento 
 <p align="left">
