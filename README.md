@@ -1,6 +1,6 @@
 # Lucas Azevedo
 
-Sou Analista de TI e estudante de Engenharia da Computação pela UNIVESP. Tenho 20 anos e venho desenvolvendo minha carreira com foco em desenvolvimento web, utilizando principalmente as tecnologias .NET no backend e React no frontend.
+Sou Analista de TI e estudante de Engenharia da Computação pela UNIVESP. Tenho 21 anos e venho desenvolvendo minha carreira com foco em desenvolvimento web, utilizando principalmente as tecnologias .NET no backend e React no frontend.
 
 Atualmente estou envolvido em projetos que me permitem aplicar conceitos sólidos de arquitetura de software, integrações entre sistemas, e desenvolvimento de interfaces eficientes e escaláveis.
 
