@@ -1,37 +1,48 @@
-# Lucas Azevedo
+<h1 align="center">Olá, eu sou o Lucas </h1>
+<h2 align="center">Desenvolvedor Full Stack, com foco em C#, .NET, APIs REST, React e práticas DevOps.</h2>
 
-Sou Analista de TI e estudante de Engenharia da Computação pela UNIVESP. Tenho 21 anos e venho desenvolvendo minha carreira com foco em desenvolvimento web, utilizando principalmente as tecnologias .NET no backend e React no frontend.
-
-Atualmente estou envolvido em projetos que me permitem aplicar conceitos sólidos de arquitetura de software, integrações entre sistemas, e desenvolvimento de interfaces eficientes e escaláveis.
+- Atualmente atuo como Analista de Desenvolvimento na RTC, no projeto da Editora Moderna, trabalhando com evolução de sistemas, integrações de APIs e práticas DevOps.
+- Desenvolvendo o Pose, um SaaS voltado para gestão de fotógrafos.
+- Formado em ADS pela Fiap e cursando Engenharia de Computacao pela UNIVESP
 
 ## Áreas de atuação
-
-- Desenvolvimento de APIs RESTful com C# e .NET 6/7/8
-- Integração de sistemas utilizando padrões como Repository, DTO e Clean Architecture
-- Desenvolvimento de interfaces modernas com React, TypeScript e Mantine UI
+- Desenvolvimento de APIs RESTful com C# e .NET 
+- Integração de sistemas 
+- Desenvolvimento de interfaces modernas com React
 - Consumo de APIs, autenticação e gerenciamento de estado no frontend
 - Manipulação e modelagem de dados com SQL Server e MySQL
 - Versionamento com Git e GitHub
 - Containerização com Docker
 
-## Em constante evolução
-
-Estou sempre buscando aprimorar minhas habilidades através de estudos e desafios reais, com foco em:
-
-- Arquitetura limpa, princípios SOLID e testes automatizados
-- Boas práticas de segurança e performance em aplicações web
-- Melhoria contínua da experiência do usuário (UX) e da estrutura visual (UI)
-- Integrações entre aplicações e automações de rotina
-
 ## Tecnologias que utilizo
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,git,github.gitlab,docker,kubernetes)](https://skillicons.dev)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,react,nextjs,ts,sqlserver,git,docker)
+## Projetos em destaque
 
+### Pose
+SaaS para gestão de fotógrafos, desenvolvido com foco em automação e integração de sistemas.
+
+- Frontend: Next.js, React, TypeScript
+- Backend: .NET
+- Banco: SQLSERVER
+- Autenticação: Keycloak
+- Infraestrutura: Docker
+- Integrações: WhatsApp / N8N
+
+🌐 https://pose.app.br/
+
+## Atualmente estudando
+
+- Arquitetura de Software
+- Azure
+- Kubernetes
+- Cloud Computing
+- Clean Architecture
+- Microsserviços
 
 ## GitHub Stats
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAzevedoS&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasAzevedoS&show_icons=true&theme=github_dark)
 
 ## Contato
 
